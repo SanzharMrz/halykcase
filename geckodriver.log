@@ -1,0 +1,36 @@
+1596047904598	geckodriver	INFO	Listening on 127.0.0.1:37191
+1596047904912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePGIwRK"
+1596047911023	Marionette	INFO	Listening on port 40961
+1596047911042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1596049451516	Marionette	INFO	Stopped listening on port 40961
+1596049815751	geckodriver	INFO	Listening on 127.0.0.1:60019
+1596049815755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuEOet3"
+1596049819994	Marionette	INFO	Listening on port 34131
+1596049820069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596049859868	Marionette	INFO	Stopped listening on port 34131
+1596050084372	geckodriver	INFO	Listening on 127.0.0.1:43813
+1596050084440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4IwkWd"
+1596050088406	Marionette	INFO	Listening on port 43909
+1596050088457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596050127990	Marionette	INFO	Stopped listening on port 43909
+1596050224097	geckodriver	INFO	Listening on 127.0.0.1:43093
+1596050224112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIb878t"
+1596050227651	Marionette	INFO	Listening on port 44651
+1596050227726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596050266131	Marionette	INFO	Stopped listening on port 44651
+1596050782468	geckodriver	INFO	Listening on 127.0.0.1:38809
+1596050782472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP9ptYo"
+1596050784921	Marionette	INFO	Listening on port 42299
+1596050784981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596050824317	Marionette	INFO	Stopped listening on port 42299
+1596051398178	geckodriver	INFO	Listening on 127.0.0.1:33617
+1596051398239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefDxsmE"
+*** You are running in headless mode.
+1596051401140	Marionette	INFO	Listening on port 42241
+1596051401155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1596051443227	Marionette	INFO	Stopped listening on port 42241
+1596086626875	geckodriver	INFO	Listening on 127.0.0.1:40131
