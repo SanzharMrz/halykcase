@@ -34,3 +34,14 @@ JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to cre
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 1596051443227	Marionette	INFO	Stopped listening on port 42241
 1596086626875	geckodriver	INFO	Listening on 127.0.0.1:40131
+1596100625608	geckodriver	INFO	Listening on 127.0.0.1:36497
+1596100625648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyh94a7"
+*** You are running in headless mode.
+1596100639471	Marionette	INFO	Listening on port 40873
+1596100642260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1596100688213	Marionette	INFO	Stopped listening on port 40873
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]' when calling method: [nsIUpdateTimerManager::registerTimer]
